@@ -3,7 +3,7 @@
 ### Video-Player
 
 This is an android project based on videoLAN project.
-It is published at Google Play. You can download from https://play.google.com/store/apps/details?id=media.videoplayer.lite. 
+It is published at Google Play. You can download it from https://play.google.com/store/apps/details?id=media.videoplayer.lite. 
 
 
 ### License
