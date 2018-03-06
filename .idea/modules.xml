@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VLC-media.videoplayer.lite_github.iml" filepath="$PROJECT_DIR$/VLC-media.videoplayer.lite_github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-libs/axmlrpc/axmlrpc.iml" filepath="$PROJECT_DIR$/java-libs/axmlrpc/axmlrpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libvlc/libvlc.iml" filepath="$PROJECT_DIR$/libvlc/libvlc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vlc-android/vlc-android.iml" filepath="$PROJECT_DIR$/vlc-android/vlc-android.iml" />
+    </modules>
+  </component>
+</project>
