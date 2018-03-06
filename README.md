@@ -1,15 +1,15 @@
 
 
-###Video-Player
+### Video-Player
 
 This is an android project based on videoLAN project.
 
 
-###License
+### License
 
 This project is licensed under GPLv2
 
-###Support
+### Support
 
 inchrogerwu@outlook.com
 
@@ -17,7 +17,7 @@ inchrogerwu@outlook.com
 
 
 
-####extras&info
+#### extras&info
 
 The official website of videoLAN is https://www.videolan.org/.
 
